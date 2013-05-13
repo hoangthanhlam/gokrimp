@@ -1,0 +1,13 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Compressing patterns are set of patterns that compress the data well. Mining compressing patterns solves the redundancy issue in traditional frequent pattern mining. The GoKrimp algorithm is the first algorithm proposed for mining compressing sequential patterns from a database of sequences. The work was published in SIAM Data Mining Conference 2012 and is extended to a journal version at the journal of Statistical Analysis and Data Mining by Wiley.  
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
