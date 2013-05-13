@@ -7,7 +7,6 @@ Compressing patterns are set of patterns that compress the data well. Mining com
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Please refer to the following publications for more information about the algorithms:
+Mining compressing sequential patterns SDM 2012 
+Mining compressing sequential patterns Journal of Statistical Analysis and Data Mining, Wiley, 2013
